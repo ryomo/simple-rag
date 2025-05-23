@@ -24,4 +24,4 @@ uv run nbstripout --install
 
 ## Usage
 
-Open `rag.ipynb` in Jupyter Notebook and "Run All".
+Open `rag.ipynb` in Jupyter Notebook, edit 1st cell to match your environment and "Run All".
