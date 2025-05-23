@@ -1,0 +1,26 @@
+[project]
+name = "simple-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "accelerate>=1.7.0",
+    "bitsandbytes>=0.45.5",
+    "faiss-cpu>=1.11.0",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "langchain-community>=0.3.24",
+    "langchain-huggingface>=0.2.0",
+    "langchain-text-splitters>=0.3.8",
+    "nbstripout>=0.8.1",
+    "protobuf>=6.31.0",
+    "sentencepiece>=0.2.0",
+    "torch>=2.7.0",
+    "transformers>=4.51.3",
+]
+# transformers dependencies:
+# - accelerate
+# - protobuf
+# - sentencepiece
