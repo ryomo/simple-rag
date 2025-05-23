@@ -24,4 +24,6 @@ uv run nbstripout --install
 
 ## Usage
 
-Open `rag.ipynb` in Jupyter Notebook, edit 1st cell to match your environment and "Run All".
+1. Open `rag.ipynb` in Jupyter Notebook.
+2. In the first cell, set the path for `documents_dir` to your documents directory.
+3. "Run All"
