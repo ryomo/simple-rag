@@ -24,6 +24,8 @@ uv run nbstripout --install
 
 ## Usage
 
-1. Open `rag.ipynb` in Jupyter Notebook.
-2. In the first cell, set the path for `documents_dir` to your documents directory.
-3. "Run All"
+1. `uv run jupyter lab`
+2. Open the displayed URL in your browser to access Jupyter Lab.
+3. Open `rag.ipynb` in Jupyter Lab.
+4. In the first cell, set the path for `documents_dir` to your documents directory.
+5. "Run All Cells"
